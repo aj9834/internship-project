@@ -1,0 +1,128 @@
+#ram{
+    background: linear-gradient(180deg, #06286E 0%, #164EC0 100%);
+    background-clip: text;
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+}
+#content{
+color: #06286E;
+text-align: center;
+font-family: Inter;
+font-size: 1.125rem;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+
+}
+#content1{
+color: #696671;
+
+text-align: center;
+font-family: Inter;
+font-size: 1.125rem;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+#box{
+    background-image: linear-gradient(to bottom right , #6d91d8 0%, #04328f 100%);
+    box-shadow: 2px 2px 5px rgba(53, 37, 168, 0.3);
+    border: 1px  #3f50ed;
+}
+
+#faq{
+background: linear-gradient(180deg, #06286E 0%, #164EC0 100%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+font-family: Inter;
+font-size: 3rem;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 0.015rem;
+}
+
+.input{
+
+width: 53rem;
+height: 3.625rem;
+padding: 1.0625rem 1.5rem;
+
+gap: 22.875rem;
+border-radius: 0.75rem;
+border: 1px solid #217EEC;
+}
+.img3{
+width: 3.75rem;
+height: 3.75rem;
+}
+#startlogo1{
+width: 6.17475rem;
+height: 6.29144rem;
+flex-shrink: 0;
+}
+
+#hyggex{
+margin-top: 33px;
+width: 7.19644rem;
+height: 2.15894rem;
+}
+#createflashcard{
+margin-top: 9px;
+font-family: Inter;
+font-size: 1.75rem;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+background: linear-gradient(180deg, #06286E 0%, #164EC0 100%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+
+.text{
+color: #FFF;
+text-align: center;
+font-family: Lato;
+font-size: 2.39106rem;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 0.04781rem;
+}
+.login{
+border-radius: 1rem;
+background: linear-gradient(180deg, #06286E 0%, #164EC0 100%);
+color: #FFF;
+width: auto;
+font-family: Inter;
+font-size: 1.125rem;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+}
+.layout{
+    margin-top: 2%;
+    display: flex;
+   align-items: center;
+   gap: 6.75rem;
+   color: #202B37;
+font-family: Inter;
+font-size: 1.5rem;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.img{
+    width: 1.875rem;
+    height: 1.87619rem;
+    cursor: pointer;
+}
+.img1{
+    width: 3.75rem;
+    height: 3.75rem;
+    cursor: pointer;
+}
